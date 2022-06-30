@@ -1,1 +1,1 @@
-practicing git commands
+hello these are some git commands
