@@ -1,0 +1,26 @@
+From b9033d898b74932a1dc5de45c5ffa763c44fe372 Mon Sep 17 00:00:00 2001
+From: seshumatta <seshu.matta@thundersoft.com>
+Date: Fri, 1 Jul 2022 16:08:31 +0530
+Subject: [PATCH] first program
+
+---
+ hello.c | 7 +++++++
+ 1 file changed, 7 insertions(+)
+ create mode 100644 hello.c
+
+diff --git a/hello.c b/hello.c
+new file mode 100644
+index 0000000..9c97e7f
+--- /dev/null
++++ b/hello.c
+@@ -0,0 +1,7 @@
++#include<stdio.h>
++
++void main()
++{
++	printf("Hello World");
++}
++
+-- 
+2.37.0.windows.1
+
